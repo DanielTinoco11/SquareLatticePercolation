@@ -1,4 +1,4 @@
-# Percolation in Two Dimensions: Calculation of Critical Exponents
+# Percolation on the Square Lattice
 
 ## Project Overview
 
