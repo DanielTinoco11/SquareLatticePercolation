@@ -38,10 +38,10 @@ Given the computational limitations of simulating large systems, finite-size sca
 ## Results
 
 - **Percolation Threshold ($p_c$):** Estimated at approximately 0.5919 for a grid of size 1500x1500, with a relative error of 0.13% compared to the theoretical value for an infinite system.
-- **Fractal Dimension ($D$):** Calculated as \( 1.86 \pm 0.02 \).
-- **Correlation Length Exponent ($\nu$):** Calculated as \( 1.30 \pm 0.02 \).
-- **Order Parameter Exponent ($\beta$):** Calculated as \( 0.14 \pm 0.01 \).
-- **Susceptibility Exponent ($\gamma$):** Calculated as \( 2.37 \pm 0.10 \).
+- **Fractal Dimension ($D$):** Calculated as $1.86 \pm 0.02$.
+- **Correlation Length Exponent ($\nu$):** Calculated as $1.30 \pm 0.02$.
+- **Order Parameter Exponent ($\beta$):** Calculated as $0.14 \pm 0.01$.
+- **Susceptibility Exponent ($\gamma$):** Calculated as $2.37 \pm 0.10$.
 
 ## How to Run the Project
 
